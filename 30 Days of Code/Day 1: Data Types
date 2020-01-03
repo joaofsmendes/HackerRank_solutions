@@ -1,0 +1,7 @@
+number1 = int(input())
+number2 = float(input())
+text = input()
+
+print(number1 + i)
+print(number2 + d)
+print(s + text)
